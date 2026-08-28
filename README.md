@@ -2,7 +2,7 @@
 
 **Fullstack Developer** based in Stockholm, Sweden — specializing in modern frontend frameworks and full-stack web & mobile applications.
 
-Currently working as **sole frontend developer** at [TotalTCG](https://dev.totaltcg.com) (UK), building an AI-powered trading card marketplace for web and native iOS/Android. Recently delivered [Sansar Sweden](https://sansarsweden.com/sv) — a complete e-commerce platform with Stripe, Supabase, and multilingual support.
+Currently working as **sole frontend developer** at [TotalTCG](https://totaltcg.com/) (UK), building an AI-powered trading card marketplace for web and native iOS/Android. Recently delivered [Sansar Sweden](https://sansarsweden.com/sv) — a complete e-commerce platform with Stripe, Supabase, and multilingual support.
 
 🟢 Available for freelance projects
 
@@ -28,7 +28,7 @@ Currently working as **sole frontend developer** at [TotalTCG](https://dev.total
 
 | Project | Description | Stack |
 |---|---|---|
-| [TotalTCG](https://dev.totaltcg.com) | AI-powered trading card marketplace — web + native iOS/Android | Nuxt 4, Vue 3, Capacitor, Firebase |
+| [TotalTCG](https://totaltcg.com/) | AI-powered trading card marketplace — web + native iOS/Android | Nuxt 4, Vue 3, Capacitor, Firebase |
 | [Sansar Sweden](https://sansarsweden.com/sv) | Full e-commerce platform with Stripe & Supabase | Next.js 16, React 19, Supabase, Stripe |
 | [Kocaseyit Hafriyat](https://kocaseyithafriyat.com) | Business website for construction company | React, JavaScript |
 | [Portfolio](https://omercelebi.se) | Personal portfolio with EN/SV multilingual support | React, TypeScript, Tailwind CSS |
