@@ -2,9 +2,7 @@
 
 **Fullstack Developer** based in Stockholm, Sweden — specializing in modern frontend frameworks and full-stack web & mobile applications.
 
-Currently working as **sole frontend developer** at [TotalTCG](https://totaltcg.com/) (UK), building an AI-powered trading card marketplace for web and native iOS/Android. Recently delivered [Sansar Sweden](https://sansarsweden.com/sv) — a complete e-commerce platform with Stripe, Supabase, and multilingual support.
-
-🟢 Available for freelance projects
+Currently working as **frontend developer** at [TotalTCG](https://totaltcg.com/) (UK), building an AI-powered trading card marketplace for web and native iOS/Android. Recently delivered [Sansar Sweden](https://sansarsweden.com/sv) — a complete e-commerce platform with Stripe, Supabase, and multilingual support.
 
 ---
 
